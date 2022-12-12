@@ -45,6 +45,10 @@
 		</dependencies>
 	</dependencyManagement>
 
+<!--	maven plugin-->
+
+
+
 	<build>
 		<plugins>
 			<plugin>
